@@ -1,6 +1,6 @@
 from aiogram import types, Dispatcher 
 from create_bot import dp, bot
-from data_base import db
+from database import db
 from keyboards import message_kb, kb_message
 import deleting
 from handlers import message_answer as msg_answ

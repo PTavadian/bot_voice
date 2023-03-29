@@ -1,5 +1,5 @@
 from aiogram.utils import executor 
-from data_base import db
+from database import db
 from create_bot import dp
 
 

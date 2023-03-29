@@ -1,7 +1,7 @@
 import datetime
 import json
 from sqlalchemy import Column, Integer, String
-from data_base.create_db import Base
+from database.create_db import Base
 
 
 

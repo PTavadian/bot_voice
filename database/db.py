@@ -1,5 +1,5 @@
-from data_base.folder import Folders
-from data_base.create_db import DATABASE_NAME, Session, create_db
+from database.folder import Folders
+from database.create_db import DATABASE_NAME, Session, create_db
 import os
 
 
